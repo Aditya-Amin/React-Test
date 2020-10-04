@@ -1,0 +1,15 @@
+#todo-list{
+    margin: 0;
+    margin-top: 15px;
+}
+
+#todo-list li{
+    text-align: left;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.todo-container{
+    width: 600px;
+    margin:0 auto;
+}
